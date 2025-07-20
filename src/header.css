@@ -1,0 +1,14 @@
+body,html{
+    margin:0;
+}
+
+header{
+    background-color:chartreuse;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+header>h1{
+    font-weight: 500;
+}
